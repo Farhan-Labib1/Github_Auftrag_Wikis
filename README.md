@@ -1,4 +1,12 @@
+<br>
+
+<hr>
+
 # GitHub Auftrag Wikis
+
+<br>
+
+<hr>
 
 <br>
 
@@ -6,6 +14,8 @@
 <p>Da werde ich GitHub Wikis ausprobieren. Dieses Auftrag ist zusammen mit der GitHub Auftraegen und es hat eine GitHub Repository dazu.</p>
 
 <br>
+
+<hr>
 
 ### GitHub Wikis 
 <p>GitHub Wikis ist eine Erweiterung von der README, also ein Zusatz, wo man das Projekt mit Informationen ausführlicher beschreiben kann.
@@ -19,3 +29,7 @@ Es sieht so aus bei der GitHub Wiki:
 
 ![Wiki](image.png)
 </p>
+
+<hr>
+
+<br>
