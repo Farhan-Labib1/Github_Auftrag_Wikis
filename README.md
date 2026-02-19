@@ -40,6 +40,8 @@ Es sieht so aus bei der GitHub Wiki:
 
 <p>Ich habe probiert das Bild zu hinzufügen mit einer Beschreibung und habe am Anfang nicht geschafft, weil das Bild hat einfach nicht gezeigt, aber mit der Drag&Drop Funktion von der Datei konnte ich das noch lösen und es hat funktioniert. Da hatte ich ein bisschen Unterstützung.
 
+Es sieht so aus mit dem Bild:
+
 <br>
 
 ![Gist Bild/Logo](image-1.png)
